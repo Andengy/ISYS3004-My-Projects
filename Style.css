@@ -102,7 +102,7 @@ section h2 {
 
 /* With the Help of Chatgpt i was about to resize, adjust, and shape the box to my liking */
 .FW-box {
-    background-image: url('');
+    background-image: url('https://raw.githubusercontent.com/Andengy/Images/main/Screenshot%202024-04-19%20145419.png');
     background-size: cover; 
     background-position: center; 
     padding: 300px 200px; 
@@ -123,7 +123,7 @@ section h2 {
 }
 
 .RPS-box {
-    background-image: url('');
+    background-image: url('https://raw.githubusercontent.com/Andengy/Images/main/Screenshot%202024-04-19%20145222.png');
     background-size: cover; 
     background-position: center; 
     padding: 300px 200px; 
@@ -134,12 +134,12 @@ section h2 {
     border-radius: 10px; 
     text-align: center; 
     text-decoration: none; 
-    color: white;
+    color: black;
     font-size: 50px 
 }
 
 .FL-box {
-    background-image: url('');
+    background-image: url('https://raw.githubusercontent.com/Andengy/Images/main/Screenshot%202024-04-19%20145342.png');
      background-size: cover; 
     background-position: center; 
     padding: 300px 200px; 
