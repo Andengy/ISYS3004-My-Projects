@@ -82,13 +82,13 @@ section h2 {
 
 /* CSS for the Page name */
 
-#Home {
+#Project {
     position: relative;
     height: 150vh; 
     overflow: hidden; 
 }
 
-#Home img {
+#Project img {
     position: absolute;
     top: 0;
     left: 0;
