@@ -101,7 +101,7 @@ section h2 {
 
 
 /* With the Help of Chatgpt i was about to resize, adjust, and shape the box to my liking */
-.about-box {
+.FW-box {
     background-image: url('');
     background-size: cover; 
     background-position: center; 
@@ -117,12 +117,12 @@ section h2 {
     font-size: 50px
 }
 
-.about-box{
+.FW-box{
     margin-left: -400px;
 
 }
 
-.projects-box {
+.RSP-box {
     background-image: url('');
     background-size: cover; 
     background-position: center; 
@@ -138,7 +138,7 @@ section h2 {
     font-size: 50px 
 }
 
-.contact-box {
+.FL-box {
     background-image: url('');
      background-size: cover; 
     background-position: center; 
@@ -154,7 +154,7 @@ section h2 {
     font-size: 50px
 }
 
-.contact-box {
+.FL-box {
     margin-left: auto; 
     margin-right: 0; 
 }
@@ -165,9 +165,9 @@ nav ul li a:hover {
     transition: border 0.1s cubic-bezier(0.25, 0.1, 0.26, 1.42); 
     cursor: pointer; 
 }
-.about-box:hover,
-.projects-box:hover,
-.contact-box:hover {
+.FW-box:hover,
+.RSP-box:hover,
+.FL-box:hover {
     border: 30px solid rgb(252 252 252); 
     transition: border 0.3s ease; 
     cursor: pointer; 
