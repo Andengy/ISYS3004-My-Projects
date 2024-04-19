@@ -102,7 +102,7 @@ section h2 {
 
 /* With the Help of Chatgpt i was about to resize, adjust, and shape the box to my liking */
 .about-box {
-    background-image: url('https://raw.githubusercontent.com/Andengy/Images/main/1000007207.jpg');
+    background-image: url('');
     background-size: cover; 
     background-position: center; 
     padding: 300px 200px; 
@@ -123,7 +123,7 @@ section h2 {
 }
 
 .projects-box {
-    background-image: url('https://raw.githubusercontent.com/Andengy/Images/main/PHOTO-2024-04-17-22-34-16.jpg');
+    background-image: url('');
     background-size: cover; 
     background-position: center; 
     padding: 300px 200px; 
@@ -139,7 +139,7 @@ section h2 {
 }
 
 .contact-box {
-    background-image: url('https://raw.githubusercontent.com/Andengy/Images/main/1000006802.jpg');
+    background-image: url('');
      background-size: cover; 
     background-position: center; 
     padding: 300px 200px; 
