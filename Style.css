@@ -118,7 +118,7 @@ section h2 {
 }
 
 .FW-box{
-    margin-left: -400px;
+    margin-left: -470px;
 
 }
 
@@ -166,7 +166,7 @@ nav ul li a:hover {
     cursor: pointer; 
 }
 .FW-box:hover,
-.RSP-box:hover,
+.RPS-box:hover,
 .FL-box:hover {
     border: 30px solid rgb(252 252 252); 
     transition: border 0.3s ease; 
